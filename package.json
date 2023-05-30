@@ -18,7 +18,7 @@
     "url": "git@github.com:foxriver76/ioBroker.ocpp.git"
   },
   "dependencies": {
-    "@ampeco/ocpp-eliftech": "https://github.com/elifTech/cpd-ocpp/tarball/969d124a8c6f87d67f854246be1356fe11afe927",
+    "@ampeco/ocpp-eliftech": "https://github.com/ampeco/cpd-ocpp/tarball/e1ddfda1a3ff11010907c258c07ad6fa76a670f1",
     "@iobroker/adapter-core": "^2.6.7",
     "babel-runtime": "^6.26.0"
   },
